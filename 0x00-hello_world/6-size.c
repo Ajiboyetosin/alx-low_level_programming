@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main - print out sizes of data types in c
- * tosins first c code
+ * main - size doesnt matter
+ *
  * Return: 0
-*/int main(void)
+ */
+int main(void)
 {
 	char a;
 	int b;
