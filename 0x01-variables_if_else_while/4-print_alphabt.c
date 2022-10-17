@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints all alphabets except q and e in lower case
+ * main - prints all alphabets except q and e in lower case.
  *
- * Return: Always 0
+ * Return: Always 0.
  */
 int main(void)
 {
